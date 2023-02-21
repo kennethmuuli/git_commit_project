@@ -11,3 +11,4 @@ Eesmärk:
  
  * Branch: main (02-20-2023)
     * Commit 1
+    * Commit 2
