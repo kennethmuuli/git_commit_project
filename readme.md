@@ -17,3 +17,6 @@ Eesmärk:
     * Commit 5
     * Commit 6
     * Commit 7
+
+* Branch: commit_project_w2 (02-27-2023)
+    * Commit 8
