@@ -35,3 +35,6 @@ Eesmärk:
     * Commit 19
     * Commit 20
     * Commit 21
+
+* Branch: commit_project_w4 (03-13-2023)
+    * Commit 22
