@@ -39,3 +39,4 @@ Eesmärk:
 * Branch: commit_project_w4 (03-13-2023)
     * Commit 22
     * Commit 23
+    * Commit 24
