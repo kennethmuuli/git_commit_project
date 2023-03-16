@@ -40,3 +40,4 @@ Eesmärk:
     * Commit 22
     * Commit 23
     * Commit 24
+    * Commit 25
